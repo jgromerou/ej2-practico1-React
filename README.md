@@ -1,5 +1,14 @@
 # Ejercicio 2 del TP1: React ![React Icon](./src/assets/react.svg)
 
+## Descripción
+
+Modificar el componente anterior y enviar mediante props el valor “My friend” de
+manera que el mensaje quede de la siguiente forma:
+
+## Link Versión en Producción
+
+[Netilfy](https://ej2-tp1-react-rollingcode-romerouro.netlify.app/)
+
 ## Tecnologias / Herramientas 🛠
 
 - [HTML](https://developer.mozilla.org/es/docs/Web/HTML)
@@ -16,7 +25,7 @@ Sigue estos pasos para clonar y ejecutar la aplicación en tu entorno local:
 1.  **Clona el repositorio:** En tu línea de comandos, ejecuta el siguiente comando para clonar el repositorio:
 
     ```
-    git clone https://github.com/jgromerou/practico1-React-ej1.git
+    git clone https://github.com/jgromerou/ej2-practico1-React.git
     ```
 
 2.  **Accede al directorio:** Ve al directorio de la aplicación clonada:
